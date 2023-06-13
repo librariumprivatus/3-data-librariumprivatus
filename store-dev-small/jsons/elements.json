@@ -1,0 +1,69 @@
+{
+  "update": "23-06-12 02:38:41",
+  "data": {
+    "00000-dcddb754": {
+      "name": "9 🐀 Small Dev Librarium",
+      "path": ".",
+      "type": "dir",
+      "id": "00000-dcddb754",
+      "nickname": "00000🔹dcddb754",
+      "parent": "."
+    },
+    "001-phil-aebc0605": {
+      "name": "001 🪲 Philosophy T",
+      "path": "001 🪲 Philosophy T",
+      "type": "dir",
+      "id": "001-phil-aebc0605",
+      "nickname": "001🪲Philos🔹aebc0605",
+      "parent": "00000-dcddb754"
+    },
+    "1-bright-ddbc26b3": {
+      "name": "1 🏂 Bright Personalities T",
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T",
+      "type": "dir",
+      "id": "1-bright-ddbc26b3",
+      "nickname": "001🪲Philos🔹1🏂BrightPe🔹ddbc26b3",
+      "parent": "001-phil-aebc0605"
+    },
+    "dekartr--4c9959aa": {
+      "name": "DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf",
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf",
+      "type": "file",
+      "id": "dekartr--4c9959aa",
+      "nickname": "001🪲Philos🔹1🏂BrightPe🔹DekartR-Ra🔹4c9959aa",
+      "parent": "1-bright-ddbc26b3"
+    },
+    "tri-toch-00ef5885": {
+      "name": "Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "type": "file",
+      "id": "tri-toch-00ef5885",
+      "nickname": "001🪲Philos🔹1🏂BrightPe🔹Триточкизр🔹00ef5885",
+      "parent": "1-bright-ddbc26b3"
+    },
+    "002-math-ec2429a9": {
+      "name": "002 🚀 Mathimatics T",
+      "path": "002 🚀 Mathimatics T",
+      "type": "dir",
+      "id": "002-math-ec2429a9",
+      "nickname": "002🚀Mathim🔹ec2429a9",
+      "parent": "00000-dcddb754"
+    },
+    "operator-71de4f25": {
+      "name": "Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+      "path": "002 🚀 Mathimatics T/Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+      "type": "file",
+      "id": "operator-71de4f25",
+      "nickname": "002🚀Mathim🔹OperatorTh🔹71de4f25",
+      "parent": "002-math-ec2429a9"
+    },
+    "explorin-498e4709": {
+      "name": "Exploring-philosophy.pdf",
+      "path": "Exploring-philosophy.pdf",
+      "type": "file",
+      "id": "explorin-498e4709",
+      "nickname": "Exploring-🔹498e4709",
+      "parent": "00000-dcddb754"
+    }
+  }
+}

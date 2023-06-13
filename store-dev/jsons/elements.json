@@ -1,0 +1,1642 @@
+{
+  "update": "23-06-13 04:30:38",
+  "data": {
+    "00000-dcddb754": {
+      "path": ".",
+      "type": "dir",
+      "id": "00000-dcddb754",
+      "parent": ".",
+      "title": "8 🦜 Dev Librarium Privatus"
+    },
+    "001-phil-aebc0605": {
+      "path": "001 🪲 Philosophy T",
+      "type": "dir",
+      "id": "001-phil-aebc0605",
+      "parent": "00000-dcddb754",
+      "title": "001 🪲 Philosophy T"
+    },
+    "0-text-1-06d8002d": {
+      "path": "001 🪲 Philosophy T/0-text-1.txt",
+      "type": "file",
+      "id": "0-text-1-06d8002d",
+      "parent": "001-phil-aebc0605",
+      "title": "0-text-1.txt"
+    },
+    "0-text-p-264d6721": {
+      "path": "001 🪲 Philosophy T/0-text-Phil.txt",
+      "type": "file",
+      "id": "0-text-p-264d6721",
+      "parent": "001-phil-aebc0605",
+      "title": "0-text-Phil.txt"
+    },
+    "1-bright-ddbc26b3": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T",
+      "type": "dir",
+      "id": "1-bright-ddbc26b3",
+      "parent": "001-phil-aebc0605",
+      "title": "1 🏂 Bright Personalities T"
+    },
+    "1596-dek-0a0abf2e": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T",
+      "type": "dir",
+      "id": "1596-dek-0a0abf2e",
+      "parent": "1-bright-ddbc26b3",
+      "title": "1596 🕯 Dekart Rene T"
+    },
+    "dekartr--349f3531": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf",
+      "type": "file",
+      "id": "dekartr--349f3531",
+      "parent": "1596-dek-0a0abf2e",
+      "title": "DekartR-Razmyshljaja-o-pervoj-filosofii-filosoff.org_.pdf",
+      "cover": "dekartr--349f3531.jpg",
+      "cover_ratio": 1.414
+    },
+    "dekart-r-15291125": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1596 🕯 Dekart Rene T/dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu",
+      "type": "file",
+      "id": "dekart-r-15291125",
+      "parent": "1596-dek-0a0abf2e",
+      "title": "dekart_rene_rassuzhdenie_o_metode_metafizicheskie_razmyshlen.djvu",
+      "cover": "dekart-r-15291125.jpg",
+      "cover_ratio": 1.416
+    },
+    "1883-yas-554d1334": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T",
+      "type": "dir",
+      "id": "1883-yas-554d1334",
+      "parent": "1-bright-ddbc26b3",
+      "title": "1883 - Yaspers Karl T"
+    },
+    "yaspers--bde68414": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers Karl. Vvedenie v filosofiyu - BooksCafe.Net.epub",
+      "type": "file",
+      "id": "yaspers--bde68414",
+      "parent": "1883-yas-554d1334",
+      "title": "Yaspers Karl. Vvedenie v filosofiyu - BooksCafe.Net.epub"
+    },
+    "yaspers--54b31762": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_FILOSOFSKOE-ORIENTIROVANIE-V-MIRE_RuLit_Net_326195.epub",
+      "type": "file",
+      "id": "yaspers--54b31762",
+      "parent": "1883-yas-554d1334",
+      "title": "Yaspers_FILOSOFSKOE-ORIENTIROVANIE-V-MIRE_RuLit_Net_326195.epub",
+      "cover": "yaspers--54b31762.jpg",
+      "cover_ratio": 1.321
+    },
+    "yaspers--ae51f352": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub",
+      "type": "file",
+      "id": "yaspers--ae51f352",
+      "parent": "1883-yas-554d1334",
+      "title": "Yaspers_Filosofiya-Kniga-tretya-Metafizika_RuLit_Net_326193.epub",
+      "cover": "yaspers--ae51f352.jpg",
+      "cover_ratio": 1.529
+    },
+    "yaspers--009a69f3": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Smyisl_i_naznachenie_istorii_RuLit_Net_215543.epub",
+      "type": "file",
+      "id": "yaspers--009a69f3",
+      "parent": "1883-yas-554d1334",
+      "title": "Yaspers_Smyisl_i_naznachenie_istorii_RuLit_Net_215543.epub"
+    },
+    "yaspers--ac4f6add": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Smyisl_i_naznachenie_istorii_sbornik__RuLit_Net_240196.epub",
+      "type": "file",
+      "id": "yaspers--ac4f6add",
+      "parent": "1883-yas-554d1334",
+      "title": "Yaspers_Smyisl_i_naznachenie_istorii_sbornik__RuLit_Net_240196.epub",
+      "cover": "yaspers--ac4f6add.jpg",
+      "cover_ratio": 1.49
+    },
+    "yaspers--f679b338": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-1.586039.fb2.epub",
+      "type": "file",
+      "id": "yaspers--f679b338",
+      "parent": "1883-yas-554d1334",
+      "title": "Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-1.586039.fb2.epub",
+      "cover": "yaspers--f679b338.jpg",
+      "cover_ratio": 1.643
+    },
+    "yaspers--b88d6217": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub",
+      "type": "file",
+      "id": "yaspers--b88d6217",
+      "parent": "1883-yas-554d1334",
+      "title": "Yaspers_Sobranie-sochineniy-po-psihopatologii-V-dvuh-tomah-Tom-2.586040.fb2.epub",
+      "cover": "yaspers--b88d6217.jpg",
+      "cover_ratio": 1.637
+    },
+    "yaspers--f103cfa0": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers._velikie_filosofy._kniga_2.pdf",
+      "type": "file",
+      "id": "yaspers--f103cfa0",
+      "parent": "1883-yas-554d1334",
+      "title": "yaspers._velikie_filosofy._kniga_2.pdf",
+      "cover": "yaspers--f103cfa0.jpg",
+      "cover_ratio": 1.556
+    },
+    "yaspers--d6507591": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/yaspers.epub",
+      "type": "file",
+      "id": "yaspers--d6507591",
+      "parent": "1883-yas-554d1334",
+      "title": "yaspers.epub",
+      "cover": "yaspers--d6507591.jpg",
+      "cover_ratio": 1.333
+    },
+    "vvedenie-0230325d": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Введение в философию (Ясперс Карл.).pdf",
+      "type": "file",
+      "id": "vvedenie-0230325d",
+      "parent": "1883-yas-554d1334",
+      "title": "Введение в философию (Ясперс Карл.).pdf",
+      "cover": "vvedenie-0230325d.jpg",
+      "cover_ratio": 1.597
+    },
+    "kant-zhi-7890bbf6": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Кант жизнь, труды, влияние (Карл Ясперс).pdf",
+      "type": "file",
+      "id": "kant-zhi-7890bbf6",
+      "parent": "1883-yas-554d1334",
+      "title": "Кант жизнь, труды, влияние (Карл Ясперс).pdf",
+      "cover": "kant-zhi-7890bbf6.jpg",
+      "cover_ratio": 1.355
+    },
+    "nitsshe--b7036d2c": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "type": "file",
+      "id": "nitsshe--b7036d2c",
+      "parent": "1883-yas-554d1334",
+      "title": "Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "cover": "nitsshe--b7036d2c.jpg",
+      "cover_ratio": 1.415
+    },
+    "razum-i--0d36c37d": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Разум и экзистенция (Ясперс Карл).djvu",
+      "type": "file",
+      "id": "razum-i--0d36c37d",
+      "parent": "1883-yas-554d1334",
+      "title": "Разум и экзистенция (Ясперс Карл).djvu",
+      "cover": "razum-i--0d36c37d.jpg",
+      "cover_ratio": 1.375
+    },
+    "tri-toch-b4a6e272": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "type": "file",
+      "id": "tri-toch-b4a6e272",
+      "parent": "1883-yas-554d1334",
+      "title": "Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "cover": "tri-toch-b4a6e272.jpg",
+      "cover_ratio": 1.419
+    },
+    "iaspers--6dbce3e8": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1883 - Yaspers Karl T/Ясперс о Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "type": "file",
+      "id": "iaspers--6dbce3e8",
+      "parent": "1883-yas-554d1334",
+      "title": "Ясперс о Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "cover": "iaspers--6dbce3e8.jpg",
+      "cover_ratio": 1.415
+    },
+    "1902-pop-09a75299": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T",
+      "type": "dir",
+      "id": "1902-pop-09a75299",
+      "parent": "1-bright-ddbc26b3",
+      "title": "1902 - Popper Karl T"
+    },
+    "vse-liud-d34d28e0": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu",
+      "type": "file",
+      "id": "vse-liud-d34d28e0",
+      "parent": "1902-pop-09a75299",
+      "title": "Все люди - философы. Как я понимаю философию (Поппер Карл.).djvu",
+      "cover": "vse-liud-d34d28e0.jpg",
+      "cover_ratio": 1.551
+    },
+    "vse-liud-a313c39b": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Все люди — философы (Карл Поппер).pdf",
+      "type": "file",
+      "id": "vse-liud-a313c39b",
+      "parent": "1902-pop-09a75299",
+      "title": "Все люди — философы (Карл Поппер).pdf",
+      "cover": "vse-liud-a313c39b.jpg",
+      "cover_ratio": 1.545
+    },
+    "vsia-zhi-87cda869": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Вся жизнь — решение проблем. О познании, истории и политике. Ч. 2 Мысли об истории и политике (Поппер К.Р.).djvu",
+      "type": "file",
+      "id": "vsia-zhi-87cda869",
+      "parent": "1902-pop-09a75299",
+      "title": "Вся жизнь — решение проблем. О познании, истории и политике. Ч. 2 Мысли об истории и политике (Поппер К.Р.).djvu",
+      "cover": "vsia-zhi-87cda869.jpg",
+      "cover_ratio": 1.574
+    },
+    "znanie-i-d350074a": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Знание и психофизическая проблема В защиту взаимодействия (Поппер Карл.).pdf",
+      "type": "file",
+      "id": "znanie-i-d350074a",
+      "parent": "1902-pop-09a75299",
+      "title": "Знание и психофизическая проблема В защиту взаимодействия (Поппер Карл.).pdf",
+      "cover": "znanie-i-d350074a.jpg",
+      "cover_ratio": 1.514
+    },
+    "logika-i-765e7d20": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика и рост научного знания (Карл Поппер).pdf",
+      "type": "file",
+      "id": "logika-i-765e7d20",
+      "parent": "1902-pop-09a75299",
+      "title": "Логика и рост научного знания (Карл Поппер).pdf",
+      "cover": "logika-i-765e7d20.jpg",
+      "cover_ratio": 0.789
+    },
+    "logika-n-532c744b": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Логика научного исследования (Поппер К.).djvu",
+      "type": "file",
+      "id": "logika-n-532c744b",
+      "parent": "1902-pop-09a75299",
+      "title": "Логика научного исследования (Поппер К.).djvu",
+      "cover": "logika-n-532c744b.jpg",
+      "cover_ratio": 1.502
+    },
+    "otkrytoe-2c3bcb16": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf",
+      "type": "file",
+      "id": "otkrytoe-2c3bcb16",
+      "parent": "1902-pop-09a75299",
+      "title": "Открытое общество и его враги. Том 1 Чары Платона (Карл Поппер).pdf",
+      "cover": "otkrytoe-2c3bcb16.jpg",
+      "cover_ratio": 1.414
+    },
+    "otkrytoe-f125cea7": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Открытое общество и его враги. Том 2 Время лжепророков Гегель, Маркс и другие оракулы (Карл Поппер).pdf",
+      "type": "file",
+      "id": "otkrytoe-f125cea7",
+      "parent": "1902-pop-09a75299",
+      "title": "Открытое общество и его враги. Том 2 Время лжепророков Гегель, Маркс и другие оракулы (Карл Поппер).pdf",
+      "cover": "otkrytoe-f125cea7.jpg",
+      "cover_ratio": 1.414
+    },
+    "tri-toch-5b1fbdf7": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Три точки зрения на человеческое познание (Карл Поппер).epub",
+      "type": "file",
+      "id": "tri-toch-5b1fbdf7",
+      "parent": "1902-pop-09a75299",
+      "title": "Три точки зрения на человеческое познание (Карл Поппер).epub"
+    },
+    "tri-toch-a20e7587": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "type": "file",
+      "id": "tri-toch-a20e7587",
+      "parent": "1902-pop-09a75299",
+      "title": "Три точки зрения на человеческое познание (Карл Поппер).pdf",
+      "cover": "tri-toch-a20e7587.jpg",
+      "cover_ratio": 1.419
+    },
+    "evoliuts-89eca26f": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1902 - Popper Karl T/Эволюционная эпистемология (Карл Поппер).pdf",
+      "type": "file",
+      "id": "evoliuts-89eca26f",
+      "parent": "1902-pop-09a75299",
+      "title": "Эволюционная эпистемология (Карл Поппер).pdf",
+      "cover": "evoliuts-89eca26f.jpg",
+      "cover_ratio": 1.419
+    },
+    "1931-ken-da5a5a25": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T",
+      "type": "dir",
+      "id": "1931-ken-da5a5a25",
+      "parent": "1-bright-ddbc26b3",
+      "title": "1931 - Kenny Anthony T"
+    },
+    "a-new-hi-386c18f9": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/A New History of Western Philosophy,Volume 2 - Medieval Philosophy (Anthony Kenny).pdf",
+      "type": "file",
+      "id": "a-new-hi-386c18f9",
+      "parent": "1931-ken-da5a5a25",
+      "title": "A New History of Western Philosophy,Volume 2 - Medieval Philosophy (Anthony Kenny).pdf",
+      "cover": "a-new-hi-386c18f9.jpg",
+      "cover_ratio": 1.473
+    },
+    "an-illus-9ab02b01": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf",
+      "type": "file",
+      "id": "an-illus-9ab02b01",
+      "parent": "1931-ken-da5a5a25",
+      "title": "An Illustrated Brief History of Western Philosophy (Sir Anthony Kenny).pdf",
+      "cover": "an-illus-9ab02b01.jpg",
+      "cover_ratio": 1.441
+    },
+    "an-illus-60e1e0b9": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/An Illustrated Brief... by Sir Anthony Kenny (z-lib.org).pdf",
+      "type": "file",
+      "id": "an-illus-60e1e0b9",
+      "parent": "1931-ken-da5a5a25",
+      "title": "An Illustrated Brief... by Sir Anthony Kenny (z-lib.org).pdf",
+      "cover": "an-illus-60e1e0b9.jpg",
+      "cover_ratio": 1.414
+    },
+    "ancient--f1fc5dcf": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf",
+      "type": "file",
+      "id": "ancient--f1fc5dcf",
+      "parent": "1931-ken-da5a5a25",
+      "title": "Ancient Philosophy A New History of Western Philosophy, Volume 1 (Anthony Kenny).pdf",
+      "cover": "ancient--f1fc5dcf.jpg",
+      "cover_ratio": 1.51
+    },
+    "philosop-d40300d9": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Philosophy in the Modern World A New History of Western Philosophy (Anthony Kenny).pdf",
+      "type": "file",
+      "id": "philosop-d40300d9",
+      "parent": "1931-ken-da5a5a25",
+      "title": "Philosophy in the Modern World A New History of Western Philosophy (Anthony Kenny).pdf",
+      "cover": "philosop-d40300d9.jpg",
+      "cover_ratio": 1.511
+    },
+    "wittgens-1068db97": {
+      "path": "001 🪲 Philosophy T/1 🏂 Bright Personalities T/1931 - Kenny Anthony T/Wittgenstein (Sir Anthony Kenny).pdf",
+      "type": "file",
+      "id": "wittgens-1068db97",
+      "parent": "1931-ken-da5a5a25",
+      "title": "Wittgenstein (Sir Anthony Kenny).pdf",
+      "cover": "wittgens-1068db97.jpg",
+      "cover_ratio": 1.427
+    },
+    "4-scient-d759f978": {
+      "path": "001 🪲 Philosophy T/4 🔬 Scientific Philosophy T",
+      "type": "dir",
+      "id": "4-scient-d759f978",
+      "parent": "001-phil-aebc0605",
+      "title": "4 🔬 Scientific Philosophy T"
+    },
+    "iskushen-a0b346f3": {
+      "path": "001 🪲 Philosophy T/4 🔬 Scientific Philosophy T/Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu",
+      "type": "file",
+      "id": "iskushen-a0b346f3",
+      "parent": "4-scient-d759f978",
+      "title": "Искушение святого Коперника ненаучные корни научной революции (Дмитриев И.С.).djvu",
+      "cover": "iskushen-a0b346f3.jpg",
+      "cover_ratio": 1.354
+    },
+    "002-math-ec2429a9": {
+      "path": "002 🚀 Mathimatics T",
+      "type": "dir",
+      "id": "002-math-ec2429a9",
+      "parent": "00000-dcddb754",
+      "title": "002 🚀 Mathimatics T"
+    },
+    "0-text-2-3a0bc8ae": {
+      "path": "002 🚀 Mathimatics T/0-text-2-Math.txt",
+      "type": "file",
+      "id": "0-text-2-3a0bc8ae",
+      "parent": "002-math-ec2429a9",
+      "title": "0-text-2-Math.txt"
+    },
+    "28-quant-61fbc79e": {
+      "path": "002 🚀 Mathimatics T/28 - Quantum T",
+      "type": "dir",
+      "id": "28-quant-61fbc79e",
+      "parent": "002-math-ec2429a9",
+      "title": "28 - Quantum T"
+    },
+    "heisenbe-a4348038": {
+      "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T",
+      "type": "dir",
+      "id": "heisenbe-a4348038",
+      "parent": "28-quant-61fbc79e",
+      "title": "Heisenberg T"
+    },
+    "geyzenbe-00ee779d": {
+      "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Geyzenberg V.. Fizika i filosofiya - BooksCafe.Net.epub",
+      "type": "file",
+      "id": "geyzenbe-00ee779d",
+      "parent": "heisenbe-a4348038",
+      "title": "Geyzenberg V.. Fizika i filosofiya - BooksCafe.Net.epub"
+    },
+    "heisenbe-d5da0b03": {
+      "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Heisenberg_Physik_und_Philosophie.pdf",
+      "type": "file",
+      "id": "heisenbe-d5da0b03",
+      "parent": "heisenbe-a4348038",
+      "title": "Heisenberg_Physik_und_Philosophie.pdf",
+      "cover": "heisenbe-d5da0b03.jpg",
+      "cover_ratio": 1.493
+    },
+    "verner-g-217c18f0": {
+      "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Verner_Geyzenberg__Shagi_Za_Gorizont.djvu",
+      "type": "file",
+      "id": "verner-g-217c18f0",
+      "parent": "heisenbe-a4348038",
+      "title": "Verner_Geyzenberg__Shagi_Za_Gorizont.djvu",
+      "cover": "verner-g-217c18f0.jpg",
+      "cover_ratio": 1.611
+    },
+    "geizenbe-e5ac1771": {
+      "path": "002 🚀 Mathimatics T/28 - Quantum T/Heisenberg T/Гейзенбер Вернер. Шаги за горизонт - royallib.com.epub",
+      "type": "file",
+      "id": "geizenbe-e5ac1771",
+      "parent": "heisenbe-a4348038",
+      "title": "Гейзенбер Вернер. Шаги за горизонт - royallib.com.epub",
+      "cover": "geizenbe-e5ac1771.jpg",
+      "cover_ratio": 1.612
+    },
+    "vf2010li-828f69b1": {
+      "path": "002 🚀 Mathimatics T/28 - Quantum T/VF2010Lipkin-arpht5tmw0o.pdf",
+      "type": "file",
+      "id": "vf2010li-828f69b1",
+      "parent": "28-quant-61fbc79e",
+      "title": "VF2010Lipkin-arpht5tmw0o.pdf",
+      "cover": "vf2010li-828f69b1.jpg",
+      "cover_ratio": 1.433
+    },
+    "operator-71de4f25": {
+      "path": "002 🚀 Mathimatics T/Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+      "type": "file",
+      "id": "operator-71de4f25",
+      "parent": "002-math-ec2429a9",
+      "title": "Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+      "cover": "operator-71de4f25.jpg",
+      "cover_ratio": 1.554
+    },
+    "024-prop-56e9e0eb": {
+      "path": "024 🥨 Propaganda T",
+      "type": "dir",
+      "id": "024-prop-56e9e0eb",
+      "parent": "00000-dcddb754",
+      "title": "024 🥨 Propaganda T"
+    },
+    "storytel-b22a74ba": {
+      "path": "024 🥨 Propaganda T/Storytelling for Law... by Philip Meyer (z-lib.org).epub",
+      "type": "file",
+      "id": "storytel-b22a74ba",
+      "parent": "024-prop-56e9e0eb",
+      "title": "Storytelling for Law... by Philip Meyer (z-lib.org).epub",
+      "cover": "storytel-b22a74ba.jpg",
+      "cover_ratio": 1.511
+    },
+    "putevodi-6839418f": {
+      "path": "024 🥨 Propaganda T/Путеводитель по лжи Критическое мышление в эпоху постправды (Russian Edition) (Левитин, Дэниел­).pdf",
+      "type": "file",
+      "id": "putevodi-6839418f",
+      "parent": "024-prop-56e9e0eb",
+      "title": "Путеводитель по лжи Критическое мышление в эпоху постправды (Russian Edition) (Левитин, Дэниел­).pdf",
+      "cover": "putevodi-6839418f.jpg",
+      "cover_ratio": 1.419
+    },
+    "rossiia--172f0390": {
+      "path": "024 🥨 Propaganda T/Россия в эпоху постправды. Здравый смысл против информационного шума (Андрей Андреевич Мовчан).pdf",
+      "type": "file",
+      "id": "rossiia--172f0390",
+      "parent": "024-prop-56e9e0eb",
+      "title": "Россия в эпоху постправды. Здравый смысл против информационного шума (Андрей Андреевич Мовчан).pdf",
+      "cover": "rossiia--172f0390.jpg",
+      "cover_ratio": 1.294
+    },
+    "smert-ek-7375b617": {
+      "path": "024 🥨 Propaganda T/Смерть экспертизы [litres] (Том Николс).fb2",
+      "type": "file",
+      "id": "smert-ek-7375b617",
+      "parent": "024-prop-56e9e0eb",
+      "title": "Смерть экспертизы [litres] (Том Николс).fb2"
+    },
+    "ia-manip-d8a95901": {
+      "path": "024 🥨 Propaganda T/Я манипулирую тобой. Методы противодействия скрытому влиянию (Никита Юрьевич Непряхин).epub",
+      "type": "file",
+      "id": "ia-manip-d8a95901",
+      "parent": "024-prop-56e9e0eb",
+      "title": "Я манипулирую тобой. Методы противодействия скрытому влиянию (Никита Юрьевич Непряхин).epub",
+      "cover": "ia-manip-d8a95901.jpg",
+      "cover_ratio": 1.5
+    },
+    "1001-ign-f0286431": {
+      "path": "1001 - Ignore T",
+      "type": "dir",
+      "id": "1001-ign-f0286431",
+      "parent": "00000-dcddb754",
+      "title": "1001 - Ignore T"
+    },
+    "explorin-97c07138": {
+      "path": "1001 - Ignore T/Exploring-philosophy.pdf",
+      "type": "file",
+      "id": "explorin-97c07138",
+      "parent": "1001-ign-f0286431",
+      "title": "Exploring-philosophy.pdf",
+      "cover": "explorin-97c07138.jpg",
+      "cover_ratio": 1.428
+    },
+    "chanyshe-6ef764e3": {
+      "path": "1001 - Ignore T/chanyshev. nachalo filosofii.pdf",
+      "type": "file",
+      "id": "chanyshe-6ef764e3",
+      "parent": "1001-ign-f0286431",
+      "title": "chanyshev. nachalo filosofii.pdf",
+      "cover": "chanyshe-6ef764e3.jpg",
+      "cover_ratio": 1.575
+    },
+    "x-ignore-d534040d": {
+      "path": "1001 - Ignore T/x-ignore.txt",
+      "type": "file",
+      "id": "x-ignore-d534040d",
+      "parent": "1001-ign-f0286431",
+      "title": "x-ignore.txt"
+    },
+    "sviaz-fi-db077c16": {
+      "path": "1001 - Ignore T/Связь философии с жизнью в последние.ddjvu.pdf",
+      "type": "file",
+      "id": "sviaz-fi-db077c16",
+      "parent": "1001-ign-f0286431",
+      "title": "Связь философии с жизнью в последние.ddjvu.pdf",
+      "cover": "sviaz-fi-db077c16.jpg",
+      "cover_ratio": 1.695
+    },
+    "802-ser--0e580ac8": {
+      "path": "802 🦖 Ser. Cambridge Companion T",
+      "type": "dir",
+      "id": "802-ser--0e580ac8",
+      "parent": "00000-dcddb754",
+      "title": "802 🦖 Ser. Cambridge Companion T"
+    },
+    "add-69cf6759": {
+      "path": "802 🦖 Ser. Cambridge Companion T/add",
+      "type": "dir",
+      "id": "add-69cf6759",
+      "parent": "802-ser--0e580ac8",
+      "title": "add"
+    },
+    "a-compan-edb97cdb": {
+      "path": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf",
+      "type": "file",
+      "id": "a-compan-edb97cdb",
+      "parent": "add-69cf6759",
+      "title": "A Companion to Food in the Ancient Wo... (z-lib.org) copy-2.pdf",
+      "cover": "a-compan-edb97cdb.jpg",
+      "cover_ratio": 1.435
+    },
+    "a-compan-54e94b1e": {
+      "path": "802 🦖 Ser. Cambridge Companion T/add/A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
+      "type": "file",
+      "id": "a-compan-54e94b1e",
+      "parent": "add-69cf6759",
+      "title": "A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
+      "cover": "a-compan-54e94b1e.jpg",
+      "cover_ratio": 1.435
+    },
+    "djvus-te-7eab9295": {
+      "path": "djvus-test",
+      "type": "dir",
+      "id": "djvus-te-7eab9295",
+      "parent": "00000-dcddb754",
+      "title": "djvus-test"
+    },
+    "gravitac-686d2c43": {
+      "path": "djvus-test/gravitacionniyvolni1972.djvu",
+      "type": "file",
+      "id": "gravitac-686d2c43",
+      "parent": "djvus-te-7eab9295",
+      "title": "gravitacionniyvolni1972.djvu",
+      "cover": "gravitac-686d2c43.jpg",
+      "cover_ratio": 1.579
+    },
+    "gravitac-fffde76e": {
+      "path": "djvus-test/gravitacionniyvolni1972.djvu.pdf",
+      "type": "file",
+      "id": "gravitac-fffde76e",
+      "parent": "djvus-te-7eab9295",
+      "title": "gravitacionniyvolni1972.djvu.pdf",
+      "cover": "gravitac-fffde76e.jpg",
+      "cover_ratio": 1.579
+    },
+    "kalibrov-3b114124": {
+      "path": "djvus-test/kalibrovochnayateoriya1985.djvu",
+      "type": "file",
+      "id": "kalibrov-3b114124",
+      "parent": "djvus-te-7eab9295",
+      "title": "kalibrovochnayateoriya1985.djvu",
+      "cover": "kalibrov-3b114124.jpg",
+      "cover_ratio": 1.415
+    },
+    "kalibrov-78eee986": {
+      "path": "djvus-test/kalibrovochnayateoriya1985.djvu.pdf",
+      "type": "file",
+      "id": "kalibrov-78eee986",
+      "parent": "djvus-te-7eab9295",
+      "title": "kalibrovochnayateoriya1985.djvu.pdf",
+      "cover": "kalibrov-78eee986.jpg",
+      "cover_ratio": 1.415
+    },
+    "kolman-d-e09146c9": {
+      "path": "djvus-test/kolman.djvu",
+      "type": "file",
+      "id": "kolman-d-e09146c9",
+      "parent": "djvus-te-7eab9295",
+      "title": "kolman.djvu",
+      "cover": "kolman-d-e09146c9.jpg",
+      "cover_ratio": 1.517
+    },
+    "kolman-d-b4048968": {
+      "path": "djvus-test/kolman.djvu.pdf",
+      "type": "file",
+      "id": "kolman-d-b4048968",
+      "parent": "djvus-te-7eab9295",
+      "title": "kolman.djvu.pdf",
+      "cover": "kolman-d-b4048968.jpg",
+      "cover_ratio": 1.517
+    },
+    "sobranie-8d8e55cb": {
+      "path": "djvus-test/sobranienauchnihtrudovt11965.djvu",
+      "type": "file",
+      "id": "sobranie-8d8e55cb",
+      "parent": "djvus-te-7eab9295",
+      "title": "sobranienauchnihtrudovt11965.djvu",
+      "cover": "sobranie-8d8e55cb.jpg",
+      "cover_ratio": 1.313
+    },
+    "sobranie-a1294e82": {
+      "path": "djvus-test/sobranienauchnihtrudovt11965.djvu.pdf",
+      "type": "file",
+      "id": "sobranie-a1294e82",
+      "parent": "djvus-te-7eab9295",
+      "title": "sobranienauchnihtrudovt11965.djvu.pdf",
+      "cover": "sobranie-a1294e82.jpg",
+      "cover_ratio": 1.313
+    },
+    "uravneni-4c32fc89": {
+      "path": "djvus-test/uravneniepolyaeynshteyna1962.djvu",
+      "type": "file",
+      "id": "uravneni-4c32fc89",
+      "parent": "djvus-te-7eab9295",
+      "title": "uravneniepolyaeynshteyna1962.djvu",
+      "cover": "uravneni-4c32fc89.jpg",
+      "cover_ratio": 1.492
+    },
+    "uravneni-11496f55": {
+      "path": "djvus-test/uravneniepolyaeynshteyna1962.djvu.pdf",
+      "type": "file",
+      "id": "uravneni-11496f55",
+      "parent": "djvus-te-7eab9295",
+      "title": "uravneniepolyaeynshteyna1962.djvu.pdf",
+      "cover": "uravneni-11496f55.jpg",
+      "cover_ratio": 1.492
+    },
+    "vremyais-201dba2d": {
+      "path": "djvus-test/vremyaisovrfiz1970.djvu",
+      "type": "file",
+      "id": "vremyais-201dba2d",
+      "parent": "djvus-te-7eab9295",
+      "title": "vremyaisovrfiz1970.djvu",
+      "cover": "vremyais-201dba2d.jpg",
+      "cover_ratio": 1.538
+    },
+    "vremyais-80f20f2b": {
+      "path": "djvus-test/vremyaisovrfiz1970.djvu.pdf",
+      "type": "file",
+      "id": "vremyais-80f20f2b",
+      "parent": "djvus-te-7eab9295",
+      "title": "vremyaisovrfiz1970.djvu.pdf",
+      "cover": "vremyais-80f20f2b.jpg",
+      "cover_ratio": 1.538
+    },
+    "epub-sim-c4b89308": {
+      "path": "epub-simple",
+      "type": "dir",
+      "id": "epub-sim-c4b89308",
+      "parent": "00000-dcddb754",
+      "title": "epub-simple"
+    },
+    "1yasp2-e-d3b92d88": {
+      "path": "epub-simple/1yasp2.epub-1.pdf",
+      "type": "file",
+      "id": "1yasp2-e-d3b92d88",
+      "parent": "epub-sim-c4b89308",
+      "title": "1yasp2.epub-1.pdf",
+      "cover": "1yasp2-e-d3b92d88.jpg",
+      "cover_ratio": 1.294
+    },
+    "britain--1978c903": {
+      "path": "epub-simple/britain-epub-calibiri.pdf",
+      "type": "file",
+      "id": "britain--1978c903",
+      "parent": "epub-sim-c4b89308",
+      "title": "britain-epub-calibiri.pdf",
+      "cover": "britain--1978c903.jpg",
+      "cover_ratio": 1.294
+    },
+    "britain--fe1e042c": {
+      "path": "epub-simple/britain.epub",
+      "type": "file",
+      "id": "britain--fe1e042c",
+      "parent": "epub-sim-c4b89308",
+      "title": "britain.epub",
+      "cover": "britain--fe1e042c.jpg",
+      "cover_ratio": 1.291
+    },
+    "calibri--9084aa5a": {
+      "path": "epub-simple/calibri-britain.pdf",
+      "type": "file",
+      "id": "calibri--9084aa5a",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-britain.pdf",
+      "cover": "calibri--9084aa5a.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--30fb1bc3": {
+      "path": "epub-simple/calibri-digital.pdf",
+      "type": "file",
+      "id": "calibri--30fb1bc3",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-digital.pdf",
+      "cover": "calibri--30fb1bc3.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--ee6fe92b": {
+      "path": "epub-simple/calibri-free.pdf",
+      "type": "file",
+      "id": "calibri--ee6fe92b",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-free.pdf",
+      "cover": "calibri--ee6fe92b.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--46b6fd46": {
+      "path": "epub-simple/calibri-gentle.pdf",
+      "type": "file",
+      "id": "calibri--46b6fd46",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-gentle.pdf",
+      "cover": "calibri--46b6fd46.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--d2a9ee86": {
+      "path": "epub-simple/calibri-imagined.pdf",
+      "type": "file",
+      "id": "calibri--d2a9ee86",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-imagined.pdf",
+      "cover": "calibri--d2a9ee86.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--87aca271": {
+      "path": "epub-simple/calibri-lorem.pdf",
+      "type": "file",
+      "id": "calibri--87aca271",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-lorem.pdf",
+      "cover": "calibri--87aca271.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--1d2bf757": {
+      "path": "epub-simple/calibri-yasp1.pdf",
+      "type": "file",
+      "id": "calibri--1d2bf757",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-yasp1.pdf",
+      "cover": "calibri--1d2bf757.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--c530c7ec": {
+      "path": "epub-simple/calibri-yasp2.pdf",
+      "type": "file",
+      "id": "calibri--c530c7ec",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-yasp2.pdf",
+      "cover": "calibri--c530c7ec.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--2ecbc8fc": {
+      "path": "epub-simple/calibri-yasp3.pdf",
+      "type": "file",
+      "id": "calibri--2ecbc8fc",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-yasp3.pdf",
+      "cover": "calibri--2ecbc8fc.jpg",
+      "cover_ratio": 1.294
+    },
+    "calibri--f670f9aa": {
+      "path": "epub-simple/calibri-yasp4.pdf",
+      "type": "file",
+      "id": "calibri--f670f9aa",
+      "parent": "epub-sim-c4b89308",
+      "title": "calibri-yasp4.pdf",
+      "cover": "calibri--f670f9aa.jpg",
+      "cover_ratio": 1.294
+    },
+    "compress-8dfd552e": {
+      "path": "epub-simple/compress-end.txt",
+      "type": "file",
+      "id": "compress-8dfd552e",
+      "parent": "epub-sim-c4b89308",
+      "title": "compress-end.txt"
+    },
+    "compress-e8a2005d": {
+      "path": "epub-simple/compress-start.txt",
+      "type": "file",
+      "id": "compress-e8a2005d",
+      "parent": "epub-sim-c4b89308",
+      "title": "compress-start.txt"
+    },
+    "digital--15127e5a": {
+      "path": "epub-simple/digital-PAND.pdf",
+      "type": "file",
+      "id": "digital--15127e5a",
+      "parent": "epub-sim-c4b89308",
+      "title": "digital-PAND.pdf",
+      "cover": "digital--15127e5a.jpg",
+      "cover_ratio": 1.294
+    },
+    "digital--d4c4fac5": {
+      "path": "epub-simple/digital-epub-calibiri.pdf",
+      "type": "file",
+      "id": "digital--d4c4fac5",
+      "parent": "epub-sim-c4b89308",
+      "title": "digital-epub-calibiri.pdf",
+      "cover": "digital--d4c4fac5.jpg",
+      "cover_ratio": 1.294
+    },
+    "digital--b336a7b5": {
+      "path": "epub-simple/digital.epub",
+      "type": "file",
+      "id": "digital--b336a7b5",
+      "parent": "epub-sim-c4b89308",
+      "title": "digital.epub",
+      "cover": "digital--b336a7b5.jpg",
+      "cover_ratio": 1.6
+    },
+    "free-epu-e18fc21d": {
+      "path": "epub-simple/free epub.pdf",
+      "type": "file",
+      "id": "free-epu-e18fc21d",
+      "parent": "epub-sim-c4b89308",
+      "title": "free epub.pdf",
+      "cover": "free-epu-e18fc21d.jpg",
+      "cover_ratio": 1.294
+    },
+    "free-epu-0b2a20e5": {
+      "path": "epub-simple/free-epub-calibiri.pdf",
+      "type": "file",
+      "id": "free-epu-0b2a20e5",
+      "parent": "epub-sim-c4b89308",
+      "title": "free-epub-calibiri.pdf",
+      "cover": "free-epu-0b2a20e5.jpg",
+      "cover_ratio": 1.294
+    },
+    "free-epu-0d4e13ba": {
+      "path": "epub-simple/free.epub",
+      "type": "file",
+      "id": "free-epu-0d4e13ba",
+      "parent": "epub-sim-c4b89308",
+      "title": "free.epub",
+      "cover": "free-epu-0d4e13ba.jpg",
+      "cover_ratio": 1.52
+    },
+    "gentle-e-91c26388": {
+      "path": "epub-simple/gentle-epub-calibiri.pdf",
+      "type": "file",
+      "id": "gentle-e-91c26388",
+      "parent": "epub-sim-c4b89308",
+      "title": "gentle-epub-calibiri.pdf",
+      "cover": "gentle-e-91c26388.jpg",
+      "cover_ratio": 1.294
+    },
+    "gentle-e-241e8711": {
+      "path": "epub-simple/gentle.epub",
+      "type": "file",
+      "id": "gentle-e-241e8711",
+      "parent": "epub-sim-c4b89308",
+      "title": "gentle.epub",
+      "cover": "gentle-e-241e8711.jpg",
+      "cover_ratio": 1.276
+    },
+    "imagined-f17e9703": {
+      "path": "epub-simple/imagined-epub-calibiri.pdf",
+      "type": "file",
+      "id": "imagined-f17e9703",
+      "parent": "epub-sim-c4b89308",
+      "title": "imagined-epub-calibiri.pdf",
+      "cover": "imagined-f17e9703.jpg",
+      "cover_ratio": 1.294
+    },
+    "imagined-e0a3ffd9": {
+      "path": "epub-simple/imagined.epub",
+      "type": "file",
+      "id": "imagined-e0a3ffd9",
+      "parent": "epub-sim-c4b89308",
+      "title": "imagined.epub",
+      "cover": "imagined-e0a3ffd9.jpg",
+      "cover_ratio": 1.478
+    },
+    "lorem-4--21f0630d": {
+      "path": "epub-simple/lorem-4.pdf",
+      "type": "file",
+      "id": "lorem-4--21f0630d",
+      "parent": "epub-sim-c4b89308",
+      "title": "lorem-4.pdf",
+      "cover": "lorem-4--21f0630d.jpg",
+      "cover_ratio": 1.294
+    },
+    "lorem-ep-79d23e85": {
+      "path": "epub-simple/lorem-epub-calibiri.pdf",
+      "type": "file",
+      "id": "lorem-ep-79d23e85",
+      "parent": "epub-sim-c4b89308",
+      "title": "lorem-epub-calibiri.pdf",
+      "cover": "lorem-ep-79d23e85.jpg",
+      "cover_ratio": 1.294
+    },
+    "lorem-ep-3a6ae688": {
+      "path": "epub-simple/lorem.epub",
+      "type": "file",
+      "id": "lorem-ep-3a6ae688",
+      "parent": "epub-sim-c4b89308",
+      "title": "lorem.epub"
+    },
+    "yasp1-co-794f670b": {
+      "path": "epub-simple/yasp1-cover.png",
+      "type": "file",
+      "id": "yasp1-co-794f670b",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp1-cover.png"
+    },
+    "yasp1-ep-9317865b": {
+      "path": "epub-simple/yasp1-epub-4.pdf",
+      "type": "file",
+      "id": "yasp1-ep-9317865b",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp1-epub-4.pdf",
+      "cover": "yasp1-ep-9317865b.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp1-ep-ac535f08": {
+      "path": "epub-simple/yasp1-epub-5.pdf",
+      "type": "file",
+      "id": "yasp1-ep-ac535f08",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp1-epub-5.pdf",
+      "cover": "yasp1-ep-ac535f08.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp1-ep-d20e2526": {
+      "path": "epub-simple/yasp1-epub-6.pdf",
+      "type": "file",
+      "id": "yasp1-ep-d20e2526",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp1-epub-6.pdf",
+      "cover": "yasp1-ep-d20e2526.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp1-ep-2eac19ea": {
+      "path": "epub-simple/yasp1-epub-calibiri.pdf",
+      "type": "file",
+      "id": "yasp1-ep-2eac19ea",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp1-epub-calibiri.pdf",
+      "cover": "yasp1-ep-2eac19ea.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp1-ep-883b66ef": {
+      "path": "epub-simple/yasp1-epub.pdf",
+      "type": "file",
+      "id": "yasp1-ep-883b66ef",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp1-epub.pdf",
+      "cover": "yasp1-ep-883b66ef.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp1-ep-7e2fbeb1": {
+      "path": "epub-simple/yasp1.epub",
+      "type": "file",
+      "id": "yasp1-ep-7e2fbeb1",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp1.epub",
+      "cover": "yasp1-ep-7e2fbeb1.jpg",
+      "cover_ratio": 1.529
+    },
+    "yasp2-ep-32711e80": {
+      "path": "epub-simple/yasp2-epub-calibiri.pdf",
+      "type": "file",
+      "id": "yasp2-ep-32711e80",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp2-epub-calibiri.pdf",
+      "cover": "yasp2-ep-32711e80.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp2-ep-c536bb72": {
+      "path": "epub-simple/yasp2-epub.pdf",
+      "type": "file",
+      "id": "yasp2-ep-c536bb72",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp2-epub.pdf",
+      "cover": "yasp2-ep-c536bb72.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp2-ep-73ec01ab": {
+      "path": "epub-simple/yasp2.epub",
+      "type": "file",
+      "id": "yasp2-ep-73ec01ab",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp2.epub",
+      "cover": "yasp2-ep-73ec01ab.jpg",
+      "cover_ratio": 1.321
+    },
+    "yasp3-ep-63a18940": {
+      "path": "epub-simple/yasp3-epub-calibiri.pdf",
+      "type": "file",
+      "id": "yasp3-ep-63a18940",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp3-epub-calibiri.pdf",
+      "cover": "yasp3-ep-63a18940.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp3-ep-5d300911": {
+      "path": "epub-simple/yasp3.epub",
+      "type": "file",
+      "id": "yasp3-ep-5d300911",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp3.epub"
+    },
+    "yasp4-ep-de54d101": {
+      "path": "epub-simple/yasp4-epub-calibiri.pdf",
+      "type": "file",
+      "id": "yasp4-ep-de54d101",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp4-epub-calibiri.pdf",
+      "cover": "yasp4-ep-de54d101.jpg",
+      "cover_ratio": 1.294
+    },
+    "yasp4-ep-5ee2dff5": {
+      "path": "epub-simple/yasp4.epub",
+      "type": "file",
+      "id": "yasp4-ep-5ee2dff5",
+      "parent": "epub-sim-c4b89308",
+      "title": "yasp4.epub",
+      "cover": "yasp4-ep-5ee2dff5.jpg",
+      "cover_ratio": 1.49
+    },
+    "isbn-fin-1c1c9e4f": {
+      "path": "isbn-finder",
+      "type": "dir",
+      "id": "isbn-fin-1c1c9e4f",
+      "parent": "00000-dcddb754",
+      "title": "isbn-finder"
+    },
+    "18-get-i-0e2ba621": {
+      "path": "isbn-finder/18-GET-ISBN",
+      "type": "dir",
+      "id": "18-get-i-0e2ba621",
+      "parent": "isbn-fin-1c1c9e4f",
+      "title": "18-GET-ISBN"
+    },
+    "a-compan-811cf9b4": {
+      "path": "isbn-finder/18-GET-ISBN/A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
+      "type": "file",
+      "id": "a-compan-811cf9b4",
+      "parent": "18-get-i-0e2ba621",
+      "title": "A Companion to Food in the Ancient Wo... (z-lib.org).pdf",
+      "cover": "a-compan-811cf9b4.jpg",
+      "cover_ratio": 1.435
+    },
+    "explorin-4c989ea9": {
+      "path": "isbn-finder/18-GET-ISBN/Exploring-philosophy.pdf",
+      "type": "file",
+      "id": "explorin-4c989ea9",
+      "parent": "18-get-i-0e2ba621",
+      "title": "Exploring-philosophy.pdf",
+      "cover": "explorin-4c989ea9.jpg",
+      "cover_ratio": 1.428
+    },
+    "explorin-75cb9201": {
+      "path": "isbn-finder/18-GET-ISBN/Exploring-philosophy.txt",
+      "type": "file",
+      "id": "explorin-75cb9201",
+      "parent": "18-get-i-0e2ba621",
+      "title": "Exploring-philosophy.txt"
+    },
+    "operator-df728696": {
+      "path": "isbn-finder/18-GET-ISBN/Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+      "type": "file",
+      "id": "operator-df728696",
+      "parent": "18-get-i-0e2ba621",
+      "title": "Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).pdf",
+      "cover": "operator-df728696.jpg",
+      "cover_ratio": 1.554
+    },
+    "operator-395d3546": {
+      "path": "isbn-finder/18-GET-ISBN/Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).txt",
+      "type": "file",
+      "id": "operator-395d3546",
+      "parent": "18-get-i-0e2ba621",
+      "title": "Operator Theoretic Aspects of Ergodic Theory (Tanja Eisner, Bálint Farkas, Markus Haase etc.) (z-lib.org).txt"
+    },
+    "nitsshe--03ddd6b7": {
+      "path": "isbn-finder/18-GET-ISBN/Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "type": "file",
+      "id": "nitsshe--03ddd6b7",
+      "parent": "18-get-i-0e2ba621",
+      "title": "Ницше Введение в понимание его философствования (Карл Ясперс).pdf",
+      "cover": "nitsshe--03ddd6b7.jpg",
+      "cover_ratio": 1.415
+    },
+    "output-p-8fa09821": {
+      "path": "output-pdfs",
+      "type": "dir",
+      "id": "output-p-8fa09821",
+      "parent": "00000-dcddb754",
+      "title": "output-pdfs"
+    },
+    "dante-co-a796e094": {
+      "path": "output-pdfs/dante copy 2.epub.pdf",
+      "type": "file",
+      "id": "dante-co-a796e094",
+      "parent": "output-p-8fa09821",
+      "title": "dante copy 2.epub.pdf",
+      "cover": "dante-co-a796e094.jpg",
+      "cover_ratio": 1.421
+    },
+    "dante-co-f031ef5b": {
+      "path": "output-pdfs/dante copy 3.epub.pdf",
+      "type": "file",
+      "id": "dante-co-f031ef5b",
+      "parent": "output-p-8fa09821",
+      "title": "dante copy 3.epub.pdf",
+      "cover": "dante-co-f031ef5b.jpg",
+      "cover_ratio": 1.421
+    },
+    "dante-co-751b1bd3": {
+      "path": "output-pdfs/dante copy 4.epub.pdf",
+      "type": "file",
+      "id": "dante-co-751b1bd3",
+      "parent": "output-p-8fa09821",
+      "title": "dante copy 4.epub.pdf",
+      "cover": "dante-co-751b1bd3.jpg",
+      "cover_ratio": 1.421
+    },
+    "dante-co-70fde27b": {
+      "path": "output-pdfs/dante copy.epub.pdf",
+      "type": "file",
+      "id": "dante-co-70fde27b",
+      "parent": "output-p-8fa09821",
+      "title": "dante copy.epub.pdf",
+      "cover": "dante-co-70fde27b.jpg",
+      "cover_ratio": 1.421
+    },
+    "dante-ep-5a7b162e": {
+      "path": "output-pdfs/dante.epub.pdf",
+      "type": "file",
+      "id": "dante-ep-5a7b162e",
+      "parent": "output-p-8fa09821",
+      "title": "dante.epub.pdf",
+      "cover": "dante-ep-5a7b162e.jpg",
+      "cover_ratio": 1.421
+    },
+    "samples-6ef9161b": {
+      "path": "samples",
+      "type": "dir",
+      "id": "samples-6ef9161b",
+      "parent": "00000-dcddb754",
+      "title": "samples"
+    },
+    "0-dir-4fdb2175": {
+      "path": "samples/0-dir",
+      "type": "dir",
+      "id": "0-dir-4fdb2175",
+      "parent": "samples-6ef9161b",
+      "title": "0-dir"
+    },
+    "poper-19-26f981c4": {
+      "path": "samples/0-dir/poper-19.djvu-00.pdf",
+      "type": "file",
+      "id": "poper-19-26f981c4",
+      "parent": "0-dir-4fdb2175",
+      "title": "poper-19.djvu-00.pdf",
+      "cover": "poper-19-26f981c4.jpg",
+      "cover_ratio": 1.294
+    },
+    "poper-19-d826a47d": {
+      "path": "samples/poper-19.djvu.pdf",
+      "type": "file",
+      "id": "poper-19-d826a47d",
+      "parent": "samples-6ef9161b",
+      "title": "poper-19.djvu.pdf",
+      "cover": "poper-19-d826a47d.jpg",
+      "cover_ratio": 1.294
+    },
+    "poper-38-3a317dd6": {
+      "path": "samples/poper-38.djvu.pdf",
+      "type": "file",
+      "id": "poper-38-3a317dd6",
+      "parent": "samples-6ef9161b",
+      "title": "poper-38.djvu.pdf",
+      "cover": "poper-38-3a317dd6.jpg",
+      "cover_ratio": 1.574
+    },
+    "poper2-d-7e6a0a5a": {
+      "path": "samples/poper2.ddjvu.pdf",
+      "type": "file",
+      "id": "poper2-d-7e6a0a5a",
+      "parent": "samples-6ef9161b",
+      "title": "poper2.ddjvu.pdf",
+      "cover": "poper2-d-7e6a0a5a.jpg",
+      "cover_ratio": 1.574
+    },
+    "poper2-d-48887c33": {
+      "path": "samples/poper2.djvups.pdf",
+      "type": "file",
+      "id": "poper2-d-48887c33",
+      "parent": "samples-6ef9161b",
+      "title": "poper2.djvups.pdf",
+      "cover": "poper2-d-48887c33.jpg",
+      "cover_ratio": 1.294
+    },
+    "poper3-d-9712dcb4": {
+      "path": "samples/poper3.ddjvu.pd",
+      "type": "file",
+      "id": "poper3-d-9712dcb4",
+      "parent": "samples-6ef9161b",
+      "title": "poper3.ddjvu.pd"
+    },
+    "poper4-d-5c718b10": {
+      "path": "samples/poper4.ddjvu.pdf",
+      "type": "file",
+      "id": "poper4-d-5c718b10",
+      "parent": "samples-6ef9161b",
+      "title": "poper4.ddjvu.pdf",
+      "cover": "poper4-d-5c718b10.jpg",
+      "cover_ratio": 1.574
+    },
+    "poper4-d-9517858d": {
+      "path": "samples/poper4.djvu",
+      "type": "file",
+      "id": "poper4-d-9517858d",
+      "parent": "samples-6ef9161b",
+      "title": "poper4.djvu",
+      "cover": "poper4-d-9517858d.jpg",
+      "cover_ratio": 1.574
+    },
+    "yaspers--924cad6d": {
+      "path": "samples/yaspers.ddjvu.pdf",
+      "type": "file",
+      "id": "yaspers--924cad6d",
+      "parent": "samples-6ef9161b",
+      "title": "yaspers.ddjvu.pdf",
+      "cover": "yaspers--924cad6d.jpg",
+      "cover_ratio": 1.375
+    },
+    "yaspers--69f1993c": {
+      "path": "samples/yaspers.djvu",
+      "type": "file",
+      "id": "yaspers--69f1993c",
+      "parent": "samples-6ef9161b",
+      "title": "yaspers.djvu",
+      "cover": "yaspers--69f1993c.jpg",
+      "cover_ratio": 1.375
+    },
+    "yaspers--31df9358": {
+      "path": "samples/yaspers.djvu.pdf",
+      "type": "file",
+      "id": "yaspers--31df9358",
+      "parent": "samples-6ef9161b",
+      "title": "yaspers.djvu.pdf",
+      "cover": "yaspers--31df9358.jpg",
+      "cover_ratio": 1.375
+    },
+    "razum-i--e132ae75": {
+      "path": "samples/Разум и экзистенция (Ясперс Карл).ddjvu.pdf",
+      "type": "file",
+      "id": "razum-i--e132ae75",
+      "parent": "samples-6ef9161b",
+      "title": "Разум и экзистенция (Ясперс Карл).ddjvu.pdf",
+      "cover": "razum-i--e132ae75.jpg",
+      "cover_ratio": 1.375
+    },
+    "razum-i--d9164f98": {
+      "path": "samples/Разум и экзистенция (Ясперс Карл).djvu",
+      "type": "file",
+      "id": "razum-i--d9164f98",
+      "parent": "samples-6ef9161b",
+      "title": "Разум и экзистенция (Ясперс Карл).djvu",
+      "cover": "razum-i--d9164f98.jpg",
+      "cover_ratio": 1.375
+    },
+    "razum-i--e94e2461": {
+      "path": "samples/Разум и экзистенция (Ясперс Карл).djvups.pdf",
+      "type": "file",
+      "id": "razum-i--e94e2461",
+      "parent": "samples-6ef9161b",
+      "title": "Разум и экзистенция (Ясперс Карл).djvups.pdf",
+      "cover": "razum-i--e94e2461.jpg",
+      "cover_ratio": 1.375
+    },
+    "samples--3cd4e190": {
+      "path": "samples-epub",
+      "type": "dir",
+      "id": "samples--3cd4e190",
+      "parent": "00000-dcddb754",
+      "title": "samples-epub"
+    },
+    "a-dictio-4aa665d2": {
+      "path": "samples-epub/A Dictionary of Symbols (Cirlot J. E).epub",
+      "type": "file",
+      "id": "a-dictio-4aa665d2",
+      "parent": "samples--3cd4e190",
+      "title": "A Dictionary of Symbols (Cirlot J. E).epub",
+      "cover": "a-dictio-4aa665d2.jpg",
+      "cover_ratio": 1.588
+    },
+    "politica-2339bdc5": {
+      "path": "samples-epub/Political Ideologies An Introduction.epub",
+      "type": "file",
+      "id": "politica-2339bdc5",
+      "parent": "samples--3cd4e190",
+      "title": "Political Ideologies An Introduction.epub",
+      "cover": "politica-2339bdc5.jpg",
+      "cover_ratio": 1.501
+    },
+    "symbols--5f4e2bde": {
+      "path": "samples-epub/Symbols Signs and Signets (Ernst Leh.epub",
+      "type": "file",
+      "id": "symbols--5f4e2bde",
+      "parent": "samples--3cd4e190",
+      "title": "Symbols Signs and Signets (Ernst Leh.epub"
+    },
+    "dante-ep-48e8eba6": {
+      "path": "samples-epub/dante.epub",
+      "type": "file",
+      "id": "dante-ep-48e8eba6",
+      "parent": "samples--3cd4e190",
+      "title": "dante.epub",
+      "cover": "dante-ep-48e8eba6.jpg",
+      "cover_ratio": 1.553
+    },
+    "dante-ep-53c2fe6e": {
+      "path": "samples-epub/dante.epub.txt",
+      "type": "file",
+      "id": "dante-ep-53c2fe6e",
+      "parent": "samples--3cd4e190",
+      "title": "dante.epub.txt"
+    },
+    "kak-tvor-de5cf2fd": {
+      "path": "samples-epub/Как творить историю Стивен Фрай Фр.epub",
+      "type": "file",
+      "id": "kak-tvor-de5cf2fd",
+      "parent": "samples--3cd4e190",
+      "title": "Как творить историю Стивен Фрай Фр.epub",
+      "cover": "kak-tvor-de5cf2fd.jpg",
+      "cover_ratio": 1.696
+    },
+    "lektsii--a5da9c8d": {
+      "path": "samples-epub/Лекции о зарубежной литературе От Го.epub",
+      "type": "file",
+      "id": "lektsii--a5da9c8d",
+      "parent": "samples--3cd4e190",
+      "title": "Лекции о зарубежной литературе От Го.epub",
+      "cover": "lektsii--a5da9c8d.jpg",
+      "cover_ratio": 1.553
+    },
+    "lektsii--5f0c6e0c": {
+      "path": "samples-epub/Лекции о литературе Диалог эпох Евг.epub",
+      "type": "file",
+      "id": "lektsii--5f0c6e0c",
+      "parent": "samples--3cd4e190",
+      "title": "Лекции о литературе Диалог эпох Евг.epub",
+      "cover": "lektsii--5f0c6e0c.jpg",
+      "cover_ratio": 1.528
+    },
+    "mezhdu-p-a91f7b5c": {
+      "path": "samples-epub/Между прошлым и будущим Восемь упраж.epub",
+      "type": "file",
+      "id": "mezhdu-p-a91f7b5c",
+      "parent": "samples--3cd4e190",
+      "title": "Между прошлым и будущим Восемь упраж.epub"
+    },
+    "o-chudes-158aeaa5": {
+      "path": "samples-epub/О Чудесах. С комментариями и объяснениями (Джон Локк).epub",
+      "type": "file",
+      "id": "o-chudes-158aeaa5",
+      "parent": "samples--3cd4e190",
+      "title": "О Чудесах. С комментариями и объяснениями (Джон Локк).epub",
+      "cover": "o-chudes-158aeaa5.jpg",
+      "cover_ratio": 1.615
+    },
+    "khx-vek--59b0432c": {
+      "path": "samples-epub/ХX век проработка прошлого Практики.epub",
+      "type": "file",
+      "id": "khx-vek--59b0432c",
+      "parent": "samples--3cd4e190",
+      "title": "ХX век проработка прошлого Практики.epub",
+      "cover": "khx-vek--59b0432c.jpg",
+      "cover_ratio": 1.501
+    },
+    "simple-8dbdda48": {
+      "path": "simple",
+      "type": "dir",
+      "id": "simple-8dbdda48",
+      "parent": "00000-dcddb754",
+      "title": "simple"
+    },
+    "bertran--9d1f34cb": {
+      "path": "simple/Bertran Rassel Analiticheskaya filosofiya. Izbrannyie tekstyi RuLit Net 273601 ddjvu.pdf",
+      "type": "file",
+      "id": "bertran--9d1f34cb",
+      "parent": "simple-8dbdda48",
+      "title": "Bertran Rassel Analiticheskaya filosofiya. Izbrannyie tekstyi RuLit Net 273601 ddjvu.pdf",
+      "cover": "bertran--9d1f34cb.jpg",
+      "cover_ratio": 1.559
+    },
+    "bertran--28f3ae72": {
+      "path": "simple/Bertran Rassel Analiticheskaya filosofiya. Izbrannyie tekstyi RuLit Net 273601.ddjvu.pdf",
+      "type": "file",
+      "id": "bertran--28f3ae72",
+      "parent": "simple-8dbdda48",
+      "title": "Bertran Rassel Analiticheskaya filosofiya. Izbrannyie tekstyi RuLit Net 273601.ddjvu.pdf",
+      "cover": "bertran--28f3ae72.jpg",
+      "cover_ratio": 1.559
+    },
+    "bertran--acb7380d": {
+      "path": "simple/Bertran Rassel Analiticheskaya filosofiya. Izbrannyie tekstyi RuLit Net 273601.djvu",
+      "type": "file",
+      "id": "bertran--acb7380d",
+      "parent": "simple-8dbdda48",
+      "title": "Bertran Rassel Analiticheskaya filosofiya. Izbrannyie tekstyi RuLit Net 273601.djvu",
+      "cover": "bertran--acb7380d.jpg",
+      "cover_ratio": 1.559
+    },
+    "antichni-bed10412": {
+      "path": "simple/antichniegosudarstvasevera1984.ddjvu.pdf",
+      "type": "file",
+      "id": "antichni-bed10412",
+      "parent": "simple-8dbdda48",
+      "title": "antichniegosudarstvasevera1984.ddjvu.pdf",
+      "cover": "antichni-bed10412.jpg",
+      "cover_ratio": 1.337
+    },
+    "antichni-a11305cd": {
+      "path": "simple/antichniegosudarstvasevera1984.djvu",
+      "type": "file",
+      "id": "antichni-a11305cd",
+      "parent": "simple-8dbdda48",
+      "title": "antichniegosudarstvasevera1984.djvu",
+      "cover": "antichni-a11305cd.jpg",
+      "cover_ratio": 1.337
+    },
+    "arhivpre-169db2ff": {
+      "path": "simple/arhivprez1995.pdf",
+      "type": "file",
+      "id": "arhivpre-169db2ff",
+      "parent": "simple-8dbdda48",
+      "title": "arhivprez1995.pdf",
+      "cover": "arhivpre-169db2ff.jpg",
+      "cover_ratio": 1.539
+    },
+    "d-txt-4547c269": {
+      "path": "simple/d.txt",
+      "type": "file",
+      "id": "d-txt-4547c269",
+      "parent": "simple-8dbdda48",
+      "title": "d.txt"
+    },
+    "denmira1-863cf3ac": {
+      "path": "simple/denmira1961.djvu",
+      "type": "file",
+      "id": "denmira1-863cf3ac",
+      "parent": "simple-8dbdda48",
+      "title": "denmira1961.djvu",
+      "cover": "denmira1-863cf3ac.jpg",
+      "cover_ratio": 1.364
+    },
+    "denmira1-7ba92764": {
+      "path": "simple/denmira1961.pdf",
+      "type": "file",
+      "id": "denmira1-7ba92764",
+      "parent": "simple-8dbdda48",
+      "title": "denmira1961.pdf",
+      "cover": "denmira1-7ba92764.jpg",
+      "cover_ratio": 1.364
+    },
+    "fold1-73958e60": {
+      "path": "simple/fold1",
+      "type": "dir",
+      "id": "fold1-73958e60",
+      "parent": "simple-8dbdda48",
+      "title": "fold1"
+    },
+    "x-end-tx-91406fbc": {
+      "path": "simple/fold1/x-end.txt",
+      "type": "file",
+      "id": "x-end-tx-91406fbc",
+      "parent": "fold1-73958e60",
+      "title": "x-end.txt"
+    },
+    "fold2-6767d2e7": {
+      "path": "simple/fold2",
+      "type": "dir",
+      "id": "fold2-6767d2e7",
+      "parent": "simple-8dbdda48",
+      "title": "fold2"
+    },
+    "math0206-71235c97": {
+      "path": "simple/math0206.ddjvu.pdf",
+      "type": "file",
+      "id": "math0206-71235c97",
+      "parent": "simple-8dbdda48",
+      "title": "math0206.ddjvu.pdf",
+      "cover": "math0206-71235c97.jpg",
+      "cover_ratio": 0.707
+    },
+    "math0206-3dbc44c8": {
+      "path": "simple/math0206.djvu",
+      "type": "file",
+      "id": "math0206-3dbc44c8",
+      "parent": "simple-8dbdda48",
+      "title": "math0206.djvu",
+      "cover": "math0206-3dbc44c8.jpg",
+      "cover_ratio": 0.707
+    },
+    "x-end-tx-da3663de": {
+      "path": "simple/x-end.txt",
+      "type": "file",
+      "id": "x-end-tx-da3663de",
+      "parent": "simple-8dbdda48",
+      "title": "x-end.txt"
+    },
+    "x-start--d6c00e23": {
+      "path": "simple/x-start.txt",
+      "type": "file",
+      "id": "x-start--d6c00e23",
+      "parent": "simple-8dbdda48",
+      "title": "x-start.txt"
+    },
+    "yaziflos-5a705c00": {
+      "path": "simple/yaziflosof1985.ddjvu.pdf",
+      "type": "file",
+      "id": "yaziflos-5a705c00",
+      "parent": "simple-8dbdda48",
+      "title": "yaziflosof1985.ddjvu.pdf",
+      "cover": "yaziflos-5a705c00.jpg",
+      "cover_ratio": 1.5
+    },
+    "yaziflos-4e83dc03": {
+      "path": "simple/yaziflosof1985.djvu",
+      "type": "file",
+      "id": "yaziflos-4e83dc03",
+      "parent": "simple-8dbdda48",
+      "title": "yaziflosof1985.djvu",
+      "cover": "yaziflos-4e83dc03.jpg",
+      "cover_ratio": 1.5
+    },
+    "mera-i-i-a0009711": {
+      "path": "simple/Мера и интеграл Дьяченко М И , Ульян Z Library copy.ddjvu.pdf",
+      "type": "file",
+      "id": "mera-i-i-a0009711",
+      "parent": "simple-8dbdda48",
+      "title": "Мера и интеграл Дьяченко М И , Ульян Z Library copy.ddjvu.pdf",
+      "cover": "mera-i-i-a0009711.jpg",
+      "cover_ratio": 1.602
+    },
+    "mera-i-i-ba08ecf9": {
+      "path": "simple/Мера и интеграл Дьяченко М И , Ульян Z Library copy.djvu",
+      "type": "file",
+      "id": "mera-i-i-ba08ecf9",
+      "parent": "simple-8dbdda48",
+      "title": "Мера и интеграл Дьяченко М И , Ульян Z Library copy.djvu",
+      "cover": "mera-i-i-ba08ecf9.jpg",
+      "cover_ratio": 1.602
+    },
+    "mera-i-i-631b9385": {
+      "path": "simple/Мера-и-интеграл-Дьяченко-М-И-,-Ульян-Z-Library copy.ddjvu.pdf",
+      "type": "file",
+      "id": "mera-i-i-631b9385",
+      "parent": "simple-8dbdda48",
+      "title": "Мера-и-интеграл-Дьяченко-М-И-,-Ульян-Z-Library copy.ddjvu.pdf",
+      "cover": "mera-i-i-631b9385.jpg",
+      "cover_ratio": 1.602
+    },
+    "mera-i-i-6a91add5": {
+      "path": "simple/Мера-и-интеграл-Дьяченко-М-И-,-Ульян-Z-Library copy.djvu",
+      "type": "file",
+      "id": "mera-i-i-6a91add5",
+      "parent": "simple-8dbdda48",
+      "title": "Мера-и-интеграл-Дьяченко-М-И-,-Ульян-Z-Library copy.djvu",
+      "cover": "mera-i-i-6a91add5.jpg",
+      "cover_ratio": 1.602
+    },
+    "mera-i-i-891301be": {
+      "path": "simple/Мера_и_интеграл_Дьяченко_М_И_,_Ульян_Z_Library.ddjvu.pdf",
+      "type": "file",
+      "id": "mera-i-i-891301be",
+      "parent": "simple-8dbdda48",
+      "title": "Мера_и_интеграл_Дьяченко_М_И_,_Ульян_Z_Library.ddjvu.pdf",
+      "cover": "mera-i-i-891301be.jpg",
+      "cover_ratio": 1.602
+    },
+    "mera-i-i-b08ab29b": {
+      "path": "simple/Мера_и_интеграл_Дьяченко_М_И_,_Ульян_Z_Library.djvu",
+      "type": "file",
+      "id": "mera-i-i-b08ab29b",
+      "parent": "simple-8dbdda48",
+      "title": "Мера_и_интеграл_Дьяченко_М_И_,_Ульян_Z_Library.djvu",
+      "cover": "mera-i-i-b08ab29b.jpg",
+      "cover_ratio": 1.602
+    }
+  }
+}

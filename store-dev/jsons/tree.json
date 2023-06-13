@@ -1,0 +1,205 @@
+{
+  "update": "23-06-13 04:30:38",
+  "data": {
+    "00000-dcddb754": {
+      "001-phil-aebc0605": {
+        "1-bright-ddbc26b3": {
+          "1596-dek-0a0abf2e": {
+            "dekartr--349f3531": null,
+            "dekart-r-15291125": null
+          },
+          "1883-yas-554d1334": {
+            "yaspers--bde68414": null,
+            "yaspers--54b31762": null,
+            "yaspers--ae51f352": null,
+            "yaspers--009a69f3": null,
+            "yaspers--ac4f6add": null,
+            "yaspers--f679b338": null,
+            "yaspers--b88d6217": null,
+            "yaspers--f103cfa0": null,
+            "yaspers--d6507591": null,
+            "vvedenie-0230325d": null,
+            "kant-zhi-7890bbf6": null,
+            "nitsshe--b7036d2c": null,
+            "razum-i--0d36c37d": null,
+            "tri-toch-b4a6e272": null,
+            "iaspers--6dbce3e8": null
+          },
+          "1902-pop-09a75299": {
+            "vse-liud-d34d28e0": null,
+            "vse-liud-a313c39b": null,
+            "vsia-zhi-87cda869": null,
+            "znanie-i-d350074a": null,
+            "logika-i-765e7d20": null,
+            "logika-n-532c744b": null,
+            "otkrytoe-2c3bcb16": null,
+            "otkrytoe-f125cea7": null,
+            "tri-toch-5b1fbdf7": null,
+            "tri-toch-a20e7587": null,
+            "evoliuts-89eca26f": null
+          },
+          "1931-ken-da5a5a25": {
+            "a-new-hi-386c18f9": null,
+            "an-illus-9ab02b01": null,
+            "an-illus-60e1e0b9": null,
+            "ancient--f1fc5dcf": null,
+            "philosop-d40300d9": null,
+            "wittgens-1068db97": null
+          }
+        },
+        "4-scient-d759f978": {
+          "iskushen-a0b346f3": null
+        }
+      },
+      "002-math-ec2429a9": {
+        "28-quant-61fbc79e": {
+          "heisenbe-a4348038": {
+            "geyzenbe-00ee779d": null,
+            "heisenbe-d5da0b03": null,
+            "verner-g-217c18f0": null,
+            "geizenbe-e5ac1771": null
+          },
+          "vf2010li-828f69b1": null
+        },
+        "operator-71de4f25": null
+      },
+      "024-prop-56e9e0eb": {
+        "storytel-b22a74ba": null,
+        "putevodi-6839418f": null,
+        "rossiia--172f0390": null,
+        "ia-manip-d8a95901": null
+      },
+      "1001-ign-f0286431": {
+        "explorin-97c07138": null,
+        "chanyshe-6ef764e3": null,
+        "sviaz-fi-db077c16": null
+      },
+      "802-ser--0e580ac8": {
+        "add-69cf6759": {
+          "a-compan-edb97cdb": null,
+          "a-compan-54e94b1e": null
+        }
+      },
+      "djvus-te-7eab9295": {
+        "gravitac-686d2c43": null,
+        "gravitac-fffde76e": null,
+        "kalibrov-3b114124": null,
+        "kalibrov-78eee986": null,
+        "kolman-d-e09146c9": null,
+        "kolman-d-b4048968": null,
+        "sobranie-8d8e55cb": null,
+        "sobranie-a1294e82": null,
+        "uravneni-4c32fc89": null,
+        "uravneni-11496f55": null,
+        "vremyais-201dba2d": null,
+        "vremyais-80f20f2b": null
+      },
+      "epub-sim-c4b89308": {
+        "1yasp2-e-d3b92d88": null,
+        "britain--1978c903": null,
+        "britain--fe1e042c": null,
+        "calibri--9084aa5a": null,
+        "calibri--30fb1bc3": null,
+        "calibri--ee6fe92b": null,
+        "calibri--46b6fd46": null,
+        "calibri--d2a9ee86": null,
+        "calibri--87aca271": null,
+        "calibri--1d2bf757": null,
+        "calibri--c530c7ec": null,
+        "calibri--2ecbc8fc": null,
+        "calibri--f670f9aa": null,
+        "digital--15127e5a": null,
+        "digital--d4c4fac5": null,
+        "digital--b336a7b5": null,
+        "free-epu-e18fc21d": null,
+        "free-epu-0b2a20e5": null,
+        "free-epu-0d4e13ba": null,
+        "gentle-e-91c26388": null,
+        "gentle-e-241e8711": null,
+        "imagined-f17e9703": null,
+        "imagined-e0a3ffd9": null,
+        "lorem-4--21f0630d": null,
+        "lorem-ep-79d23e85": null,
+        "lorem-ep-3a6ae688": null,
+        "yasp1-ep-9317865b": null,
+        "yasp1-ep-ac535f08": null,
+        "yasp1-ep-d20e2526": null,
+        "yasp1-ep-2eac19ea": null,
+        "yasp1-ep-883b66ef": null,
+        "yasp1-ep-7e2fbeb1": null,
+        "yasp2-ep-32711e80": null,
+        "yasp2-ep-c536bb72": null,
+        "yasp2-ep-73ec01ab": null,
+        "yasp3-ep-63a18940": null,
+        "yasp3-ep-5d300911": null,
+        "yasp4-ep-de54d101": null,
+        "yasp4-ep-5ee2dff5": null
+      },
+      "isbn-fin-1c1c9e4f": {
+        "18-get-i-0e2ba621": {
+          "a-compan-811cf9b4": null,
+          "explorin-4c989ea9": null,
+          "operator-df728696": null,
+          "nitsshe--03ddd6b7": null
+        }
+      },
+      "output-p-8fa09821": {
+        "dante-co-a796e094": null,
+        "dante-co-f031ef5b": null,
+        "dante-co-751b1bd3": null,
+        "dante-co-70fde27b": null,
+        "dante-ep-5a7b162e": null
+      },
+      "samples-6ef9161b": {
+        "0-dir-4fdb2175": {
+          "poper-19-26f981c4": null
+        },
+        "poper-19-d826a47d": null,
+        "poper-38-3a317dd6": null,
+        "poper2-d-7e6a0a5a": null,
+        "poper2-d-48887c33": null,
+        "poper4-d-5c718b10": null,
+        "poper4-d-9517858d": null,
+        "yaspers--924cad6d": null,
+        "yaspers--69f1993c": null,
+        "yaspers--31df9358": null,
+        "razum-i--e132ae75": null,
+        "razum-i--d9164f98": null,
+        "razum-i--e94e2461": null
+      },
+      "samples--3cd4e190": {
+        "a-dictio-4aa665d2": null,
+        "politica-2339bdc5": null,
+        "symbols--5f4e2bde": null,
+        "dante-ep-48e8eba6": null,
+        "kak-tvor-de5cf2fd": null,
+        "lektsii--a5da9c8d": null,
+        "lektsii--5f0c6e0c": null,
+        "mezhdu-p-a91f7b5c": null,
+        "o-chudes-158aeaa5": null,
+        "khx-vek--59b0432c": null
+      },
+      "simple-8dbdda48": {
+        "bertran--9d1f34cb": null,
+        "bertran--28f3ae72": null,
+        "bertran--acb7380d": null,
+        "antichni-bed10412": null,
+        "antichni-a11305cd": null,
+        "arhivpre-169db2ff": null,
+        "denmira1-863cf3ac": null,
+        "denmira1-7ba92764": null,
+        "fold1-73958e60": {},
+        "math0206-71235c97": null,
+        "math0206-3dbc44c8": null,
+        "yaziflos-5a705c00": null,
+        "yaziflos-4e83dc03": null,
+        "mera-i-i-a0009711": null,
+        "mera-i-i-ba08ecf9": null,
+        "mera-i-i-631b9385": null,
+        "mera-i-i-6a91add5": null,
+        "mera-i-i-891301be": null,
+        "mera-i-i-b08ab29b": null
+      }
+    }
+  }
+}
